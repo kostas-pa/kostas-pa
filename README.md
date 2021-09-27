@@ -1,4 +1,5 @@
-### Hi there 👋
+ - Hi there 👋
+ - 👀 I’m interested in Pentesting/Cybersecurity
 
 <!--
 **kostas-pa/kostas-pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">⬇️ <strong>This is how many people have visited my account</strong> ⬇️<br><img src="https://profile-counter.glitch.me/el-queso/count.svg" /></p>
