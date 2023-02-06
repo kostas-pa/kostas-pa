@@ -1,5 +1,5 @@
  - Hi there 👋
- - 👀 I’m interested in Pentesting/Cybersecurity
+ - 👀 I’m interested in Cybersecurity
 
 <!--
 **kostas-pa/kostas-pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
